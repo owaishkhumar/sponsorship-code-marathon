@@ -1,0 +1,6 @@
+@SponsorshipBackend_HostAddress = http://localhost:5121
+
+GET {{SponsorshipBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
